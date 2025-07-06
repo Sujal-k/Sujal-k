@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sujal Kesharwani Banner" width="100%" />
+  <img src="bannerTwo.png" alt="Sujal Kesharwani Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sujal Kesharwani</h1>
